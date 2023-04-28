@@ -4,8 +4,12 @@
 
 <div align="center">
   <a href="https://github.com/Samborka">
+    <div display="flex">
+      
   ![Samborka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samborka&show_icons=true&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samborka&layout=compac&theme=dracula)]
+    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samborka&layout=compact&theme=dracula)
+   </div>
 </div>
   
   <div style="display: inline_block"><br>
