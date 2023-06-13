@@ -1,6 +1,6 @@
-### Olá! Sou o Henrique! 👋
+### Hello! I'm Henrique and I'm a full-stack developer! 👋
 
-- 🌱 Desenvolvedor Front-End
+👋 Hello! I'm a Computer Science student at the Federal University of Santa Catarina, Brazil 🎓. I'm a dedicated full-stack developer with a solid foundation in JavaScript (JS) and TypeScript (TS). My expertise lies in utilizing frameworks like React and Next.js for front-end development, alongside Node.js for back-end development. Additionally, I possess proficiency in working with SQL and NoSQL databases. Through my projects, I strive to craft efficient and user-friendly web applications that address real-world challenges. Feel free to explore my repositories to gain insight into my skills and experiences. Let's connect and collaborate on exciting ventures! 💻
 
 <div align="center">
   <a href="https://github.com/Samborka">
