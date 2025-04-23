@@ -3,7 +3,13 @@
  👋 Hello! I'm a Computer Science student at the Federal University of Santa Catarina, Brazil 🎓. 
 <br/> 
 <br/>
- I'm a dedicated full-stack developer with a solid foundation in JavaScript (JS) and TypeScript (TS). My expertise lies in utilizing frameworks like React and Next.js for front-end development, alongside Node.js for back-end development. Additionally, I possess proficiency in working with SQL and NoSQL databases. Through my projects, I strive to craft efficient and user-friendly web applications that address real-world challenges. Feel free to explore my repositories to gain insight into my skills and experiences. Let's connect and collaborate on exciting ventures! 💻
+I'm a Full Stack Developer with experience in backend and frontend development, specializing in JavaScript, TypeScript and Python.
+
+Throughout my career, I have worked on scalable web applications, automation processes, and system optimizations, ensuring high performance and reliability. I have experience with CI/CD automation, Dockerized environments, and testing strategies with Pytest and Bash scripts, improving deployment efficiency and code quality.
+
+On the frontend, I develop intuitive and responsive interfaces using React, Vue.js, and TypeScript, while on the backend, I work with Django, Node.js, and PostgreSQL, designing robust and efficient architectures.
+
+Passionate about problem-solving, automation, and software quality, I thrive in dynamic environments, always looking for ways to optimize workflows and deliver impactful solutions. 🚀
 
 <div align="center">
   <a href="https://github.com/henriquealvesL">
